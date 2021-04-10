@@ -7,5 +7,7 @@
 ###  - 📫 How to reach me: buketglgn@gmail.com
 ###  -🔗 My LinkedIn account LinkedIn
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=white&link=link)(link) 
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=white&link=link)](link)
 
