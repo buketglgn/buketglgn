@@ -9,5 +9,5 @@
 
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-000?style=quare&labelColor=000&logo=LinkedIn&logoColor=white&link=link)](link)
+[![LinkedIn Badge](https://www.linkedin.com/in/buket-g%C3%BClg%C3%BCn-3086aa1ba/)](link)
 
