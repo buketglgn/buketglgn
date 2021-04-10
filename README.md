@@ -9,5 +9,5 @@
 
 
 
-[![LinkedIn Badge](https://www.linkedin.com/in/buket-g%C3%BClg%C3%BCn-3086aa1ba/)](link)
+[![LinkedIn Badge](https://www.linkedin.com/in/buket-g%C3%BClg%C3%BCn-3086aa1ba/)]
 
