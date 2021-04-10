@@ -5,9 +5,6 @@
 ###  - 🌱 I’m currently learning C# and Angular
 ###  - 💻I am a Computer Engineering student at Celal Bayar University.
 ###  - 📫 How to reach me: buketglgn@gmail.com
-###  -🔗 My LinkedIn account LinkedIn
+###  -🔗 My LinkedIn account [LinkedIn](https://www.linkedin.com/in/buket-g%C3%BClg%C3%BCn-3086aa1ba/)
 
-
-
-[![LinkedIn Badge](https://www.linkedin.com/in/buket-g%C3%BClg%C3%BCn-3086aa1ba/)]
 
