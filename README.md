@@ -9,3 +9,7 @@
 ###  - 🔗 My LinkedIn account [LinkedIn](https://www.linkedin.com/in/buket-g%C3%BClg%C3%BCn-3086aa1ba/)
 
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=buketglgn&show_icons=true&theme=radical)
+
+
+
