@@ -11,5 +11,7 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=buketglgn&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=buketglgn&repo=github-readme-stats)](https://github.com/buketglgn/github-readme-stats)
+
 
 
