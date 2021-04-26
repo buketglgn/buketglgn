@@ -9,7 +9,7 @@
 
 
  # 🔨 Technologies & Tools
- <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="28" role="img" aria-label="SPRING"><title>SPRING</title>
+ <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="28" role="img" aria-label="SPRING">SPRING
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=buketglgn&show_icons=true&theme=radical)
 
