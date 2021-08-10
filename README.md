@@ -28,5 +28,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketglgn&langs_count=8)](https://github.com/buketglgn/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buketglgn&langs_count=9&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buketglgn&langs_count=9&theme=white)]()
 
