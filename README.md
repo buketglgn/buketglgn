@@ -28,5 +28,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketglgn&langs_count=8)](https://github.com/buketglgn/github-readme-stats)
 
-<iframe width="600" height="600" src="https://buketglgn.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buketglgn&theme=tokyonight)
