@@ -26,5 +26,5 @@
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=buketglgn&show_icons=true&theme=radical)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buketglgn&langs_count=9&theme=black)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buketglgn&langs_count=9&theme=tokyonight)]()
 
