@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+<img src="https://img.shields.io/badge/PgAdmin-4-ED8B00?style=for-the-badge&logo=pgadmin4&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
